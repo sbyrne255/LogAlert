@@ -1,0 +1,4 @@
+C:\Users\Steven\Documents\Visual Studio 2010\Projects\LogAlert\LogAlert\bin\Debug\LogAlert.exe
+C:\Users\Steven\Documents\Visual Studio 2010\Projects\LogAlert\LogAlert\bin\Debug\LogAlert.pdb
+C:\Users\Steven\Documents\Visual Studio 2010\Projects\LogAlert\LogAlert\obj\x86\Debug\LogAlert.exe
+C:\Users\Steven\Documents\Visual Studio 2010\Projects\LogAlert\LogAlert\obj\x86\Debug\LogAlert.pdb

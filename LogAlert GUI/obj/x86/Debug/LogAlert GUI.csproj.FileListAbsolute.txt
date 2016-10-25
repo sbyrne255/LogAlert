@@ -1,0 +1,48 @@
+C:\Users\Steven\Documents\Visual Studio 2010\Projects\LogAlert GUI\LogAlert GUI\bin\Debug\LogAlert GUI.exe
+C:\Users\Steven\Documents\Visual Studio 2010\Projects\LogAlert GUI\LogAlert GUI\bin\Debug\LogAlert GUI.pdb
+C:\Users\Steven\Documents\Visual Studio 2010\Projects\LogAlert GUI\LogAlert GUI\obj\x86\Debug\LogAlert_GUI.Form1.resources
+C:\Users\Steven\Documents\Visual Studio 2010\Projects\LogAlert GUI\LogAlert GUI\obj\x86\Debug\LogAlert_GUI.Properties.Resources.resources
+C:\Users\Steven\Documents\Visual Studio 2010\Projects\LogAlert GUI\LogAlert GUI\obj\x86\Debug\LogAlert GUI.csproj.GenerateResource.Cache
+C:\Users\Steven\Documents\Visual Studio 2010\Projects\LogAlert GUI\LogAlert GUI\obj\x86\Debug\LogAlert GUI.exe
+C:\Users\Steven\Documents\Visual Studio 2010\Projects\LogAlert GUI\LogAlert GUI\obj\x86\Debug\LogAlert GUI.pdb
+C:\Users\Steven\Documents\Visual Studio 2010\Projects\LogAlert GUI\LogAlert GUI\obj\x86\Debug\LogAlert GUI.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert GUI\LogAlert GUI\obj\x86\Debug\LogAlert GUI.exe
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert GUI\LogAlert GUI\obj\x86\Debug\LogAlert GUI.pdb
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert GUI\LogAlert GUI\bin\Debug\LogAlert GUI.exe
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert GUI\LogAlert GUI\bin\Debug\LogAlert GUI.pdb
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert GUI\LogAlert GUI\obj\x86\Debug\LogAlert GUI.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert GUI\LogAlert GUI\obj\x86\Debug\LogAlert_GUI.Form1.resources
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert GUI\LogAlert GUI\obj\x86\Debug\LogAlert_GUI.Properties.Resources.resources
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert GUI\LogAlert GUI\obj\x86\Debug\LogAlert GUI.csproj.GenerateResource.Cache
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert GUI\bin\Debug\LogAlert GUI.exe.config
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert GUI\bin\Debug\LogAlert GUI.exe
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert GUI\bin\Debug\LogAlert GUI.pdb
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert GUI\bin\Debug\EntityFramework.dll
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert GUI\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert GUI\bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert GUI\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert GUI\bin\Debug\System.Data.dll
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert GUI\bin\Debug\System.Data.SQLite.dll
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert GUI\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert GUI\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert GUI\bin\Debug\System.Deployment.dll
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert GUI\bin\Debug\System.dll
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert GUI\bin\Debug\System.Drawing.dll
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert GUI\bin\Debug\System.Security.dll
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert GUI\bin\Debug\System.ServiceProcess.dll
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert GUI\bin\Debug\System.Windows.Forms.dll
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert GUI\bin\Debug\System.Xml.dll
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert GUI\bin\Debug\System.Xml.Linq.dll
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert GUI\bin\Debug\EntityFramework.xml
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert GUI\bin\Debug\System.Data.SQLite.xml
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert GUI\obj\x86\Debug\LogAlert GUI.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert GUI\obj\x86\Debug\LogAlert_GUI.Form1.resources
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert GUI\obj\x86\Debug\LogAlert_GUI.Properties.Resources.resources
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert GUI\obj\x86\Debug\LogAlert GUI.csproj.GenerateResource.Cache
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert GUI\obj\x86\Debug\LogAlert GUI.exe
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert GUI\obj\x86\Debug\LogAlert GUI.pdb
+C:\Users\Steven\Desktop\Project Files\!Published Projects\D-LogAlert\Source\LogAlert GUI\bin\Debug\LogAlert GUI.exe.config
+C:\Users\Steven\Desktop\Project Files\!Published Projects\D-LogAlert\Source\LogAlert GUI\obj\x86\Debug\LogAlert GUI.exe
+C:\Users\Steven\Desktop\Project Files\!Published Projects\D-LogAlert\Source\LogAlert GUI\obj\x86\Debug\LogAlert GUI.pdb

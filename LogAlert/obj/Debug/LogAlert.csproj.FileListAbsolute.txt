@@ -1,0 +1,9 @@
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert\bin\Debug\LogAlert.exe
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert\bin\Debug\LogAlert.pdb
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert\obj\Debug\LogAlert.ProjectInstaller.resources
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert\obj\Debug\LogAlert.csproj.GenerateResource.Cache
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert\obj\Debug\LogAlert.exe
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert\obj\Debug\LogAlert.pdb
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert\obj\Debug\LogAlert.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert\bin\Debug\System.Data.SQLite.dll
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert\bin\Debug\System.Data.SQLite.pdb

@@ -1,0 +1,14 @@
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert\bin\Release\System.Data.SQLite.dll
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert\bin\Release\EntityFramework.dll
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert\bin\Release\EntityFramework.xml
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert\bin\Release\System.Data.SQLite.xml
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert\obj\Release\LogAlert.ProjectInstaller.resources
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert\obj\Release\LogAlert.csproj.GenerateResource.Cache
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert\obj\Release\LogAlert.exe
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert\bin\Release\LogAlert.exe.config
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert\bin\Release\LogAlert.exe
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert\obj\Release\LogAlert.csprojResolveAssemblyReference.cache

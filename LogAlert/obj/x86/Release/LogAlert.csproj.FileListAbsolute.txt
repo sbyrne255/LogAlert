@@ -1,0 +1,18 @@
+C:\Users\Steven\Documents\Visual Studio 2010\Projects\LogAlert\LogAlert\bin\Release\LogAlert.exe
+C:\Users\Steven\Documents\Visual Studio 2010\Projects\LogAlert\LogAlert\bin\Release\LogAlert.pdb
+C:\Users\Steven\Documents\Visual Studio 2010\Projects\LogAlert\LogAlert\obj\x86\Release\LogAlert.ProjectInstaller.resources
+C:\Users\Steven\Documents\Visual Studio 2010\Projects\LogAlert\LogAlert\obj\x86\Release\LogAlert.csproj.GenerateResource.Cache
+C:\Users\Steven\Documents\Visual Studio 2010\Projects\LogAlert\LogAlert\obj\x86\Release\LogAlert.exe
+C:\Users\Steven\Documents\Visual Studio 2010\Projects\LogAlert\LogAlert\obj\x86\Release\LogAlert.pdb
+C:\Users\Steven\Documents\Visual Studio 2010\Projects\LogAlert\LogAlert\obj\x86\Release\LogAlert.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert\bin\Release\LogAlert.exe.manifest
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert\bin\Release\LogAlert.application
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert\bin\Release\LogAlert.exe
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert\bin\Release\LogAlert.pdb
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert\obj\x86\Release\LogAlert.ProjectInstaller.resources
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert\obj\x86\Release\LogAlert.csproj.GenerateResource.Cache
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert\obj\x86\Release\LogAlert.exe.manifest
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert\obj\x86\Release\LogAlert.application
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert\obj\x86\Release\LogAlert.exe
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert\obj\x86\Release\LogAlert.pdb
+C:\Users\Steven\Desktop\Project Files\LogAlert\LogAlert\obj\x86\Release\LogAlert.csprojResolveAssemblyReference.cache
